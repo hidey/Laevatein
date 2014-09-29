@@ -26,5 +26,3 @@ before_script:
 
 notifications:
   email: false
-  on_success: always
-  on_failure: always
