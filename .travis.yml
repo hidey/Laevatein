@@ -4,7 +4,7 @@ android:
     - tools
 
     # The BuildTools version
-    - build-tools-20.0.0
+    - build-tools-23.0.2
 
     # The SDK version
     - android-19
